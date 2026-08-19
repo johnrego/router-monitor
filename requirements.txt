@@ -1,0 +1,2 @@
+python-dotenv>=1.2.2
+telnetlib3>=4.0.4
